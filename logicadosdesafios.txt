@@ -1,0 +1,30 @@
+Primeira Avaliação Nama:
+
+Imprimir na saída STDOUT os números de 1 a 100, onde:
+
+Número dividido por 5, com resto igual a 0, mostra "Nama"
+Número dividido por 7, com resto igual a 0, mostra "Team"
+Número dividido por 35, com resto igual a 0, mostra "Team Nama"
+
+Imprimir com vírgula entre os números
+
+Incluir testes com rspec
+Styleguide da comunidade Ruby (2 espaços em vez de tabs)
+
+Resumindo, nesse caso posso usar módulo, pq não trabalho com números negativos.
+
+num % 5 = 0 imprime "Nama"
+num % 7 = 0 imprime "Team"
+num % 35 = 0 imprime "Team Nama"
+
+
+Segunda Avaliação Nama:
+Chatbot com AIML e Pandora Bots
+Fazer o curso da Udemy de AIML
+
+Terceira Avaliação Nama:
+Gerenciando versões do Ruby
+1-Instalar um gerenciador de versões do Ruby (ASDF de preferência) (vou fazer com rvm e ASDF pq pediram com ASDF mas eu costumo utilizar rvm)
+2-Qual gerenciador de versão foi usado e por que?
+3-Qual o comando utilizado para instalar a versão 2.6.0 do Ruby?
+4-Qual o comando usado para alterar a versão padrão usada pelo sistema operacional?
