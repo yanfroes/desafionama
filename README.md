@@ -1,4 +1,4 @@
-## Testes para vaga de Desenvolvedor Ruby na empresa Nama (https://www.nama.ai/)
+## Testes para vaga de Desenvolvedor Full Stack na empresa Nama (https://www.nama.ai/)
 
 * 3 Testes:
 * 1: Imprimir na saída padrão (STDOUT) os números de 1 a 100. Em todos os múltiplos de 5, troque o número por Nama. Nos múltiplos de 7 troque o número por Team e nos múltiplos de 35 por Nama Team. Testar com Rspec.
