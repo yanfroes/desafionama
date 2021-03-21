@@ -1,5 +1,6 @@
-i = 1
-max = 100
+class NamaPrint
+  i = 1
+  max = 100
 
 while i <= max do
   if i % 100 == 0
@@ -14,6 +15,7 @@ while i <= max do
     print " #{i},"
   end
   i = i+1
+end
 end
 
 # print 2%1==0? "sim":"não"
