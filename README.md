@@ -31,7 +31,7 @@
 >    $ rspec
  
 ## Rodando o programa do segundo Teste (Chatbot)
-* Nome do bot dentro do Pandorabots: Namabot
+* Nome do bot dentro do Pandorabots: NamaBot
 * Github link: https://github.com/yanfroes/namabot
  
 ## Terceiro Teste
