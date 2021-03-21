@@ -39,7 +39,7 @@ Perguntas:
 * 1-Por que é importante utilizar um gerenciador de versões?
 > R: Porque com um gerenciador de versões do Ruby você pode facilmente trocar a versão do ruby e trabalhar com diferentes ambientes e diferentes projetos.
 * 2-Qual gerenciador de versão foi usado e por que?
-> R: Fiz com o RVM, mas respondi com os comandos para o ASDF também. RVM porque sempre fiz com ele, e não conhecia o ASDF, e com o ASDF porque vocês pediram com ele.
+> R: Fiz com o RVM, mas respondi com os comandos para o ASDF também. RVM porque sempre fiz com ele. Com o ASDF porque vocês pediram com ele.
 * 3-Qual o comando utilizado para instalar a versão 2.6.0 do Ruby?
 * 4-Qual o comando usado para alterar a versão padrão usada pelo sistema operacional?
 
