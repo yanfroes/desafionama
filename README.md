@@ -30,7 +30,7 @@
 * Para testar o projeto:
 >    $ rspec
  
-## Rodando o programa do segundo Teste
+## Rodando o programa do segundo Teste (Chatbot)
 * Nome do bot dentro do Pandorabots: Namabot
 * Github link: https://github.com/yanfroes/namabot
  
