@@ -43,33 +43,33 @@ Perguntas:
 * 3-Qual o comando utilizado para instalar a versão 2.6.0 do Ruby?
 * 4-Qual o comando usado para alterar a versão padrão usada pelo sistema operacional?
 
-> RVM: Para Instalar, abra o terminal e envie esse comando abaixo:
-> curl -sSL https://get.rvm.io | bash -s stable
-> Para instalar a versão 2.6.0:
-> rvm install 2.6.0
-> Para utilizar alguma versão:
-> rvm use 2.3.0 (exemplo)
-> Para alterar a versão padrão:
-> rvm --default use 2.6.0
+> RVM: Para Instalar, abra o terminal e envie esse comando abaixo:  
+> curl -sSL https://get.rvm.io | bash -s stable  
+> Para instalar a versão 2.6.0:  
+> rvm install 2.6.0  
+> Para utilizar alguma versão:  
+> rvm use 2.3.0 (exemplo)  
+> Para alterar a versão padrão:  
+> rvm --default use 2.6.0  
 
-> ASDF: Para instalar, abra o terminal e envie esse comando abaixo:
-> git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.7.2
-> Envie esses outros comandos para podermos usar o asdf de qualquer pasta:
-> echo -e '\n. $HOME/.asdf/asdf.sh' >> ~/.bashrc
-> echo -e '\n. $HOME/.asdf/completions/asdf.bash' >> ~/.bashrc
-> Feche o terminal e abra novamente, teste digitando:
-> asdf
-> Instale as dependências do ruby:
-> sudo apt install build-essential
-> sudo apt install zlib1g-dev libssl-dev libreadline-dev libgdbm-dev
-> Instale o plugin do Ruby do asdf:
-> asdf plugin-add ruby
-> Para instalar a versão 2.6.0 envie esse comando:
-> asdf install ruby 2.6.0
-> Para verificar as versões instaladas:
-> asdf list ruby
-> Para mudar o padrão:
-> asdf global ruby 2.6.0
+> ASDF: Para instalar, abra o terminal e envie esse comando abaixo:  
+> git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.7.2  
+> Envie esses outros comandos para podermos usar o asdf de qualquer pasta:  
+> echo -e '\n. $HOME/.asdf/asdf.sh' >> ~/.bashrc  
+> echo -e '\n. $HOME/.asdf/completions/asdf.bash' >> ~/.bashrc  
+> Feche o terminal e abra novamente, teste digitando:  
+> asdf  
+> Instale as dependências do ruby:  
+> sudo apt install build-essential  
+> sudo apt install zlib1g-dev libssl-dev libreadline-dev libgdbm-dev  
+> Instale o plugin do Ruby do asdf:  
+> asdf plugin-add ruby  
+> Para instalar a versão 2.6.0 envie esse comando:  
+> asdf install ruby 2.6.0  
+> Para verificar as versões instaladas:  
+> asdf list ruby  
+> Para mudar o padrão:  
+> asdf global ruby 2.6.0  
 
  
 * **Yan Fróes**: @yanfroes (https://github.com/yanfroes)
