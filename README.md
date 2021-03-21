@@ -24,7 +24,7 @@
 ## Rodando o programa do primeiro Teste
  
 * Para instalar:
->    $ bundle install
+>    $ gem install bundler && bundle install
 * Para rodar o projeto:
 >    $ ruby lib/nama_challenge.rb
 * Para testar o projeto:
